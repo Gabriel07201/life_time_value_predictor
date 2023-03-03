@@ -4,3 +4,8 @@ Aqui eu irei os pontos que for descobrindo durante o projeto, que também poder�
 Apenas por curiosidade a cotação do Rupees no dia 02/03/2022 era de 0,063 Real. 
 
  * A apólice predominante é o platinum. Os mesmos apresentam um cltv maior.
+ * Não existem outliers no cltv.
+ * Clientela predominante: M
+ * É comum que um cliente tenha mais de 1 apólice. E isso pode se dar devido a serem casadas.
+ * A maioria das pessoas são casadas.
+ * A maioria das pessoas não pega nenhum valor com o seguro.
