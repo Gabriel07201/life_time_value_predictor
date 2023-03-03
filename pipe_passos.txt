@@ -1,0 +1,2 @@
+drop vintage e claim_amount
+replace gender to 0 and 1
