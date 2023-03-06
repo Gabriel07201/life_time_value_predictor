@@ -1,5 +1,0 @@
-drop vintage e claim_amount
-replace gender to 0 and 1
-replace type_of_police to 0 1 2
-one hot encode em ['area', 'qualification', 'income', 'num_policies', 'policy']
-log no cltv
